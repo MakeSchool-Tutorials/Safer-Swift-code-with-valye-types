@@ -1,4 +1,4 @@
 title: "Talk: Safer Swift code with value types"
-cover: cover.png
+cover: "cover.png"
 teaser_text: |
     A talk on using immutable value types in Swift to reduce complexity in your applications.
