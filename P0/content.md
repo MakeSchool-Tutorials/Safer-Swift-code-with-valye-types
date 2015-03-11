@@ -1,5 +1,5 @@
 ---
-title: Talk: Safer Swift code with value types
+title: "Talk: Safer Swift code with value types"
 slug: safer-swift
 --- 
 
