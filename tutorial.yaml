@@ -1,4 +1,5 @@
-title: "Talk: Safer Swift code with value types"
+title: "Learn Swift by example - Part 2: Enums 2"
 cover: cover.png
 teaser_text: |
-    A talk given at Swift Developers Community SF that discusses new ways of writing iOS apps with Swift.
+    This is the second part of our Learn Swift series. We discuss how you can
+    use new enum features in Swift to write better code.
