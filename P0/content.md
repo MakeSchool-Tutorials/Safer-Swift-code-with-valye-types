@@ -5,7 +5,7 @@ slug: safer-swift
 
 I gave this talk at the Swift Developers Community SF Meetup. It discusses how immutable value types can be used in Swift to reduce the complexity of your codebase and avoid common issues in iOS development.
 
-You can find the slides here: http://bit.ly/saferswift
+You can find the slides here: [http://bit.ly/saferswift](http://bit.ly/saferswift)
 
 If you have any questions or feedback, feel free to [reach out to me.](mailto:benji@makeschool.com) 
 
